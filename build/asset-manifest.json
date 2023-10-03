@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.1becb9f2.css",
-    "main.js": "/static/js/main.bd1fe51a.js",
-    "index.html": "/index.html",
-    "main.1becb9f2.css.map": "/static/css/main.1becb9f2.css.map",
-    "main.bd1fe51a.js.map": "/static/js/main.bd1fe51a.js.map"
+    "main.css": "//dokeys28.github.io/webnueva/build/static/css/main.1becb9f2.css",
+    "main.js": "//dokeys28.github.io/webnueva/build/static/js/main.bd1fe51a.js",
+    "index.html": "//dokeys28.github.io/webnueva/build/index.html",
+    "main.1becb9f2.css.map": "//dokeys28.github.io/webnueva/build/static/css/main.1becb9f2.css.map",
+    "main.bd1fe51a.js.map": "//dokeys28.github.io/webnueva/build/static/js/main.bd1fe51a.js.map"
   },
   "entrypoints": [
     "static/css/main.1becb9f2.css",
